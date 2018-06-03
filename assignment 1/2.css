@@ -1,0 +1,42 @@
+.padding{
+	padding-top:25px;
+	padding-bottom:25px;  	
+}
+.image{
+	
+	display:flex;
+	justify-content:flex-left;
+}
+div{
+	background-color:#3b5998;
+	color:white;
+	font-size:30px;
+}
+span{
+	display:flex;
+	justify-content:flex-end;
+	}
+.body{
+	background-color:#3ef989;
+	height:100%;
+	width:100%;
+	display:flex;
+	justify-content:flex-end;
+	}
+.img{
+	height:500px;
+	width:500px;
+	padding-top:70px;
+	allign:left;
+	float:left;
+	}
+.button{
+	border-width:10px;
+	color:blue;
+}
+
+.input input{
+	width:160px;
+	height:40px;
+	border-radius:20px;
+}
